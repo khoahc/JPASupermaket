@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e815d8b3-e8dd-448d-8d95-bd762813fae4" name="Default Changelist" comment="JPA Supermarket">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Supermarket/src/supermarket/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/Supermarket/src/supermarket/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Supermaket_java/supermarket/Category$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Supermaket_java/supermarket/Category$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Supermaket_java/supermarket/Category$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Supermaket_java/supermarket/Category$10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Supermaket_java/supermarket/Category$11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Supermaket_java/supermarket/Category$11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Supermaket_java/supermarket/Category$12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Supermaket_java/supermarket/Category$12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Supermaket_java/supermarket/Category$13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Supermaket_java/supermarket/Category$13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Supermaket_java/supermarket/Category$14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Supermaket_java/supermarket/Category$14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Supermaket_java/supermarket/Category$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Supermaket_java/supermarket/Category$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Supermaket_java/supermarket/Category$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Supermaket_java/supermarket/Category$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Supermaket_java/supermarket/Category$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Supermaket_java/supermarket/Category$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Supermaket_java/supermarket/Category$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Supermaket_java/supermarket/Category$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Supermaket_java/supermarket/Category$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Supermaket_java/supermarket/Category$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Supermaket_java/supermarket/Category$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Supermaket_java/supermarket/Category$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Supermaket_java/supermarket/Category$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Supermaket_java/supermarket/Category$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Supermaket_java/supermarket/Category$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Supermaket_java/supermarket/Category$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Supermaket_java/supermarket/Category.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Supermaket_java/supermarket/Category.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Supermaket_java/supermarket/Login$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Supermaket_java/supermarket/Login$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Supermaket_java/supermarket/Login$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Supermaket_java/supermarket/Login$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Supermaket_java/supermarket/Login$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Supermaket_java/supermarket/Login$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Supermaket_java/supermarket/Login$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Supermaket_java/supermarket/Login$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Supermaket_java/supermarket/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Supermaket_java/supermarket/Login.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1slPHYlbOhWNbDdbQB1yeE23TTZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="Application.Login">
+    <configuration name="Category" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="supermarket.Category" />
+      <module name="Supermaket_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="supermarket.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="supermarket.Login" />
+      <module name="Supermaket_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="supermarket.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Selling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="supermarket.Selling" />
+      <module name="Supermaket_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="supermarket.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Supermarket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="supermarket.Supermarket" />
+      <module name="Supermaket_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="supermarket.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Login" />
+        <item itemvalue="Application.Selling" />
+        <item itemvalue="Application.Supermarket" />
+        <item itemvalue="Application.Category" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e815d8b3-e8dd-448d-8d95-bd762813fae4" name="Default Changelist" comment="" />
+      <created>1621444116820</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621444116820</updated>
+    </task>
+    <task id="LOCAL-00001" summary="JPA Supermarket">
+      <created>1622221519730</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1622221519731</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="JPA Supermarket" />
+    <option name="LAST_COMMIT_MESSAGE" value="JPA Supermarket" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="520" y="236" key="#Notifications" timestamp="1622220678975">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="520" y="236" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1622220678975" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1622221234239">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1622221234239" />
+    <state x="633" y="310" key="Github.ShareDialog" timestamp="1622220673179">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="633" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1622220673179" />
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1622223138072">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1622223138072" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1622223138072">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1622223138072" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1622223138072">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1622223138072" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1622223138072">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1622223138072" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1622223138072">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1622223138072" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1622223138072">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1622223138072" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1622223138072">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1622223138072" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1622223138072">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1622223138072" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1622221218542">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1622221218542" />
+    <state x="361" y="132" key="Vcs.Push.Dialog.v2" timestamp="1622221603684">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1622221603684" />
+  </component>
+</project>

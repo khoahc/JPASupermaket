@@ -5,12 +5,8 @@
  */
 package supermarket;
 
-import java.sql.Connection;
-import java.sql.DriverManager;
-import java.sql.ResultSet;
-import java.sql.SQLException;
-import java.sql.Statement;
-import javax.swing.JOptionPane;
+import javax.swing.*;
+import java.sql.*;
 
 /**
  *
@@ -153,9 +149,9 @@ public class Login extends javax.swing.JFrame {
             }
         });
 
-        jLabel5.setFont(new java.awt.Font("Century Gothic", 2, 20)); // NOI18N
-        jLabel5.setForeground(new java.awt.Color(255, 102, 0));
-        jLabel5.setText("CodeSpace");
+//        jLabel5.setFont(new java.awt.Font("Century Gothic", 2, 20)); // NOI18N
+//        jLabel5.setForeground(new java.awt.Color(255, 102, 0));
+//        jLabel5.setText("Khoa-Hậu");
 
         jLabel7.setIcon(new javax.swing.ImageIcon("C:\\Users\\afwadmin\\Desktop\\Code\\Supermarketjava\\shopping_bag_50px.png")); // NOI18N
 
